@@ -11,4 +11,5 @@ The objective of this data is to understand customer demographics and buying beh
 3. Data Cleaning, Wrangling and Exploratory Data Analysis (EDA)
 4. Data Pre-processing
 5. Modeling
-6. 
+6. Model Evaluation
+7. Remodeling
